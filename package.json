@@ -1,0 +1,15 @@
+{
+  "name": "learning-excel4node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "EduardoLGamer <EduardoLGamer950@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2"
+  }
+}
